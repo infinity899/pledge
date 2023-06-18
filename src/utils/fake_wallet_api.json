@@ -1,0 +1,124 @@
+{
+"PLG": {
+    "id": "PLG",
+    "label": "PLG",
+    "max": 5000,
+    "balance": {
+      "amount": 2.45,
+      "currencyCode": "PLG"
+    },
+    "hasValidKYC": true,
+    "faqs": [
+      {
+        "question": "What is PLG",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I get PLG",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I use PLG",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I exchange PLG",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I receive PLG",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I send PLG",
+        "answer": "Lorem ipsum..."
+      }
+    ],
+    "transactions": [
+      {
+        "id": 1,
+        "date": "Jan 15 2019",
+        "amount": 12
+      },
+      {
+        "id": 2,
+        "date": "Jan 19 2019",
+        "amount": -22.34
+      },
+      {
+        "id": 3,
+        "date": "Mar 19 2019",
+        "amount": -22.34
+      },
+      {
+        "id": 4,
+        "date": "Feb 19 2019",
+        "amount": 222.34
+      },
+      {
+        "id": 5,
+        "date": "Feb 19 2019",
+        "amount": -234.34
+      },
+      {
+        "id": 6,
+        "date": "Dec 18 2018",
+        "amount": -12.34
+      }
+    ]
+  },
+  "CS": {
+    "id": "CS",
+    "label": "CS",
+    "max": 5500,
+    "balance": {
+      "amount": 100000,
+      "currencyCode": "CS"
+    },
+    "hasValidKYC": true,
+    "userIsModerator": true,
+    "faqs": [
+      {
+        "question": "What is CS",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I get CS",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I use CS",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I exchange CS",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I receive CS",
+        "answer": "Lorem ipsum..."
+      },
+      {
+        "question": "How do I send CS",
+        "answer": "Lorem ipsum..."
+      }
+    ],
+    "transactions": [
+      {
+        "id": 1,
+        "date": "Feb 15 2019",
+        "amount": 10
+      },
+      {
+        "id": 2,
+        "date": "Feb 19 2019",
+        "amount": -21.34
+      },
+      {
+        "id": 3,
+        "date": "Feb 28 2019",
+        "amount": -1.34
+      }
+    ]
+  }
+}

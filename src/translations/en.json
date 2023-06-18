@@ -1,0 +1,1811 @@
+{
+  "company": "Pledgecamp",
+  "of": "of",
+  "start": "Start",
+  "close": "Close",
+  "cancel": "Cancel",
+  "save": "Save",
+  "saved": "Saved",
+  "login": "Log In",
+  "logout": "Log Out",
+  "signup": "Sign Up",
+  "edit": "Edit",
+  "learn_more": "Learn More",
+  "show_more": "Show more",
+  "show_less": "Show less",
+  "copy_link": "Copy Link",
+  "confirm": "Confirm",
+  "copied": "Copied!",
+  "days": "days",
+  "time": {
+    "weeks_ago": "{n} week ago | {n} weeks ago",
+    "days_ago": "{n} day ago | {n} days ago",
+    "hours_ago": "{n} hours ago | {n} hours ago",
+    "minutes_ago": "{n} minutes ago | {n} minutes ago",
+    "week": "week | weeks",
+    "day": "day | days",
+    "hour": "hour | hours",
+    "minute": "minute | minutes",
+    "second": "second | seconds"
+  },
+  "account_required": {
+    "title": "Account Required",
+    "text": "A Pledgecamp account is required to proceed. Click below to login!",
+    "no_account": "No account? ",
+    "click_to_signup": "Click here to sign up."
+  },
+  "widgets": {
+    "avatar": {
+      "creator": "Creator"
+    },
+    "image_upload": {
+      "drag_drop": "Drag and Drop to Upload",
+      "browse_file": "Or browse to choose a file"
+    }
+  },
+  "home": {
+    "intro_title": "We redesigned crowdfunding and took the worry out.",
+    "intro_desc": " We give creators more support and<br>structure. And give backers more protection.",
+    "intro_video_desc": "How Backer Protection works",
+    "subtitle": "Pledgecamp has the tools and features to make dream projects a reality for backers and creators. From setting up a fundraising campaign to ordering a life-changing product, we have covered.",
+    "start_project": "Start a Project",
+    "storefront_title": "Open a post funding storefront or start a new campaign",
+    "storefront_desc1": "Were you successful with a crowdfunding campaign? Then use us as a storefront for your post-funding products!",
+    "storefront_desc2": "Ready to take the first step in funding your dream project? Did your campaign fall short on anonther crowdfunding platform? Either way, Pledgecamp has the features and support to get your project to the next level.",
+    "storefront_link1": "Create a Storefront",
+    "creator_backer_title1": "For Creators",
+    "creator_backer_desc1": "We charge lower fees, provide more support, and can even be your post-funding storefront. We have the workflow tools and knowledge-base to get your dream project in the hands of your customers",
+    "creator_backer_title2": "For Backers",
+    "creator_backer_desc2": "More support for creators means you get your rewards more often, and on time. You also have Backer Protection. Which means you can vote to cancel projects you’ve backed and get a refund — if you lose faith in them.",
+    "article": {
+      "title": "Featured In",
+      "articles": [
+        {
+          "text": "Randi Zuckerberg, Ripple And TechCrunch Execs Advise New $17 Million Blockchain Startup",
+          "link_text": "Read more on Forbes",
+          "link": "https://www.forbes.com/sites/yoavvilner/2018/10/15/randi-zuckerberg-ripple-and-techcrunch-execs-advise-new-17-million-blockchain-startup/",
+          "image": "forbes.png"
+        },
+        {
+          "text": "Randi Zuckerberg aims to disrupt crowdfunding with blockchain technology",
+          "link_text": "Read more on Fox",
+          "link": "https://video.foxbusiness.com/v/5839433830001/",
+          "image": "fox.png"
+        },
+        {
+          "text": "Disrupting Crowdfunding with Blockchain",
+          "link_text": "Read more on Box Mining",
+          "link": "https://www.youtube.com/watch?v=9ZA09KCC68Y",
+          "image": "box_mining.png"
+        }
+      ]
+    },
+    "explore_title": "A crowdfunding platform made for creators, by creators",
+    "explore_desc": "We've been there, so we know exactly what you need. From how to set up your campaign to the best way to wrap your product and drop it in the mail. Because the goal isn't just to fundraise - it's to get your product out there.",
+    "explore_link": "Explore Pledgecamp's Features",
+    "subscribe_title": "Be the first to know about new Pledgecamp projects.",
+    "subscribe_enter_email": "Enter your email address",
+    "trending_title": "Trending",
+    "featured_storefront_title": "Featured Storefronts",
+    "featured_storefront_desc": "Funded projects ready to be shipped to your home.",
+    "recent_launch_title": "Recently Launched"
+  },
+  "about": {
+    "title": "About Us",
+    "watch": "Watch Video",
+    "who": {
+      "title": "Who We Are",
+      "mission": "Our Mission",
+      "mission_text": "To bring effective, reliable crowdfunding to every corner of the globe. We pledge to support creators funding their dreams and to protect backers with features that emphasize accountability.",
+      "history": "History",
+      "history_text": "<p>Online crowdfunding is a recent phenomenon (~2010), yet its impacts have already changed the world. Our team has been crowdfunding since 2014 and followed its evolution every step of the way.</p><p>For every success story like the Oculus Rift, there are countless more (avoidable) failures. A Wharton University professor found that oer 85% of projects break their promises, and less than 33% of supporters return back to a second project.</p><p>Crowdfunding, for all its promise, is broken. Pledgecamp is here to fix it. We teamed up with the makers of Slack and Coinbase to make Pledgecamp fun and easy-to-use, and enlisted top advisors to get us to the next level.</p><p>The next generation of crowdfunding is here. Join us."
+    },
+    "featured": "Featured In",
+    "watch_fox": "Watch: Pledgecamp on Fox News",
+    "connect_title": "Connect with Us",
+    "connect_text": "Follow us on any social media platform to stay updated with all our latest news.",
+    "telegram": "Telegram",
+    "twitter": "Twitter",
+    "medium": "Medium",
+    "youtube": "Youtube",
+    "telegram_kor": "Telegram (KOR)",
+    "watch_advisors": "Watch: Key Advisors Answer \"Why Pledgecamp?\"",
+    "advisors": "Advisors",
+    "quotes": [
+      {
+        "name": "- Matt Curcio | VP Data at Ripple",
+        "text": "They are founders that really want to make a difference, and they really picked a problem I found interesting."
+      },
+      {
+        "name": " - Jim Augustine | COO at Zuckerberg Media",
+        "text": "“Pledgecamp knows what it's doing, it's taking blockchain to a place that can be really useful in a society."
+      },
+      {
+        "name": "- Keith Teare | Founding Shareholder at TechCrunch",
+        "text": "In this team I'm seeing a track record of execution."
+      },
+      {
+        "name": "- Randi Zuckerberg | Founder at Zuckerberg Media",
+        "text": "Pledgecamp will give millions of entrepreneurs a new opportunity to connect globally around their projects."
+      },
+      {
+        "name": "- Edward Kim",
+        "text": "You’re looking for strong teams that can actually execute and that understand how to create value for the token on their platform."
+      },
+      {
+        "name": "- Christian Sullivan | LP at Polychain Capital",
+        "text": "This is the product of a lot of work and time that they put into and I think if someone’s gonna get it done they’ll get it."
+      },
+      {
+        "name": "Ryan Scott | Founding Partner of ICL impact group",
+        "text": "In relations to the many other blockchain projects I’ve seen especially in terms of crowdfunding, this project stands head and shoulders above the rest."
+      }
+    ]
+  },
+  "whitepaper": {
+    "title": "Whitepaper",
+    "downloads": "Available Downloads",
+    "download": "Download",
+    "info_title": "Pledgecamp Whitepaper",
+    "info_text": "Our whitepaper is a thorough explanation of our philosophy and solutions to the problems facing crowdfunding today. Download our whitepaper in the language of your choice for more details about our origins, market analysis, platform design, token economy, and more."
+  },
+  "auth": {
+    "login": "Welcome back!",
+    "signup": "Sign up to get started",
+    "welcome": "Welcome",
+    "or": "OR",
+    "login_description": "Log in by entering the information below",
+    "signup_description": "Create a user in Pledgecamp",
+    "remember_me": "Remember Me",
+    "forgot_password": "Forgot password?",
+    "enter_email": "Enter the email associated with your account to reset the password.",
+    "reset_password": "Reset Password",
+    "enter_password": "Please enter your new password.",
+    "dont_have_account": "Don't have an account?",
+    "already_have_account": "Already have an account?",
+    "create_one_here": "Create one here",
+    "create_one": "Create one",
+    "click_here": "Click here",
+    "login_here": "Log in",
+    "disclaimer": "By signing up you agree to our terms of use, privacy policy and cookie policy.",
+    "read": "Read more.",
+    "later": "You can change this later if you want. | You can change these later if you want.",
+    "what": "What should we call you?",
+    "optional": "OPTIONAL",
+    "confirm": "Please confirm your email address!",
+    "check_inbox": "Check your inbox for a link to complete your account registration. If you haven't received an email after 10 minutes, you can ",
+    "check_inbox2": "to resend.",
+    "two_factor_auth": "Two Factor Authorization",
+    "unable_provide_code": "Unable to provide code?",
+    "enter_digits": "Enter 6-digit verification",
+    "enter_verification_code": "Enter verification code from your device below.",
+    "dont_ask_30_days": "Don't ask me for the code again for 30 days when I use this computer.",
+    "authenticating": "Authenticating...",
+    "placeholders": {
+      "email": "Email",
+      "password": "Password",
+      "new_password": "New Password",
+      "confirm_password": "Confirm Password",
+      "create_password": "Create password",
+      "confirm": "Confirm password",
+      "name": "Name",
+      "location": "Location"
+    },
+    "buttonText": {
+      "create_account": "Create Account",
+      "reset": "Reset password",
+      "facebook": "Continue with Facebook",
+      "google": "Continue with Google",
+      "save": "Save",
+      "send": "Send",
+      "later": "I'll do this later.",
+      "verify": "Verify"
+    },
+    "errors": {
+      "PASSWORD_MISMATCH": "Passwords don't match.",
+      "LOGIN_FAILURE": "Invalid email or password.",
+      "NETWORK_FAILURE": "Network error. Please try again later.",
+      "EMAIL_MISSING": "Please enter an email address.",
+      "EMAIL_INVALID": "Please enter a valid email address.",
+      "PASSWORD_MISSING": "Please enter a password.",
+      "PASSWORD_CONFIRM": "Please confirm password.",
+      "REGISTRATION_FAILURE": "That email address is taken",
+      "CODE_MISMATCH": "Code doesn't match.",
+      "CODE_INVALID": "Please enter a 6-digit code."
+    },
+    "checks": {
+      "chars": "8 Characters",
+      "case": "Upper & Lower Case",
+      "number": "A Number"
+    },
+    "emailConfirm": {
+      "success": {
+        "title": "Email Verified",
+        "message": "Congratulations, your account has been successfully registered. Please click the button below to start your journey with Pledgecamp.",
+        "button": "Begin"
+      },
+      "missing_code": {
+        "title": "Code Missed",
+        "message": "Congratulations, your account has been successfully registered. Please click the button below to start your journey with Pledgecamp.",
+        "button": "Check email"
+      },
+      "not_found": {
+        "title": "Code Not Found",
+        "message": "Congratulations, your account has been successfully registered. Please click the button below to start your journey with Pledgecamp.",
+        "button": "Resend"
+      },
+      "already_confirmed": {
+        "title": "Email Already Verfied",
+        "message": "Congratulations, your account has been successfully registered. Please click the button below to start your journey with Pledgecamp.",
+        "button": "Continue"
+      },
+      "expired": {
+        "title": "Code Expired",
+        "message": "Congratulations, your account has been successfully registered. Please click the button below to start your journey with Pledgecamp.",
+        "button": "Resend"
+      }
+    }
+  },
+  "category_page": {
+    "sort_by": "Sort by",
+    "sorters": [
+      {
+        "name": "Ending Soon",
+        "value": "recently_added"
+      },
+      {
+        "name": "Newest",
+        "value": "recently_launched"
+      }
+    ],
+    "filters": [
+      {
+        "name": "Live Projects",
+        "value": "live_projects"
+      },
+      {
+        "name": "Past Successes",
+        "value": "past_successes"
+      }
+    ]
+  },
+  "reward": {
+    "pledge": "Pledge",
+    "description": "Make a pledge without a reward.",
+    "limit": "Limit",
+    "left": "Left",
+    "backers": "{0} backers ({1} left)",
+    "buttons": {
+      "donation": "Add Donation",
+      "add": "Add Reward",
+      "edit": "Edit Reward",
+      "remove": "Remove Reward",
+      "added": "Reward Added",
+      "donation_added": "Donation Added",
+      "sold": "Sold Out"
+    }
+  },
+  "project": {
+    "filter_by": "Filter by",
+    "pledged_of": "pledged of",
+    "backers": "backers",
+    "backer_count": "{n} Backers",
+    "funded": "{n}% Funded",
+    "success": "This project successfully crowdfunded on Pledgecamp",
+    "failed": "This project failed to reach its funding goal",
+    "buttonText": {
+      "pledge": "pledge now",
+      "edit": "Edit",
+      "vote_now": "Vote Now"
+    },
+    "filters": ["Popular", "All", "New"],
+    "tabs": [
+      {
+        "label": "Project",
+        "component": "project-campaign"
+      },
+      {
+        "label": "FAQ",
+        "component": "project-faq"
+      },
+      {
+        "label": "Updates",
+        "component": "project-updates"
+      },
+      {
+        "label": "Discussion",
+        "component": "project-discussion"
+      }
+    ],
+    "tabItems": {
+      "share": "Share",
+      "subscribe": "Subscribe",
+      "subscribed": "Subscribed"
+    },
+    "share": {
+      "title": "Share this Project",
+      "link": "Link to Project"
+    },
+    "subscribe": {
+      "title": "Subscribe to Project",
+      "text": "You will receive an email when 48 hours are left in this campaign.",
+      "login": "You must be logged in to subscribe to a project.",
+      "title2": "Unsubscribe from Project",
+      "text2": "You will no longer receive an email update before this project completes."
+    },
+    "status": {
+      "live": "Live",
+      "complete": "Complete",
+      "not_started": "Not Started"
+    },
+    "fundingStatus": {
+      "successful": "Successful",
+      "not_reached": "Not Reached"
+    },
+    "milestoneOverview": "Milestone Overview",
+    "campaign": {
+      "rewards_title": "Rewards",
+      "rewards_desc": "Choose your rewards",
+      "backer_protection_title": "{n}% Backer protection",
+      "backer_protection_desc": "Your refund if a project hits a snag post-fundraising.",
+      "overview_title": "Overview",
+      "timeline_title": "Project Timeline",
+      "timeline_desc": "These are major events in the project plan that unlock portions of funding for the creator. As a backer you’ll be able to vote before each milestone unlocks.",
+      "timeline_help": "Why does Pledgecamp use milestones?",
+      "funds_released": "{n}% Funds Released",
+      "referral_desc": "Earn a 5% referral bonus when a friend makes a pledge to this project with your referral link.",
+      "copy_project_link": "Copy Project Link",
+      "report_desc": "Does this project seem suspicious? Is it breaking a Pledgecamp rule? Let us know.",
+      "flag_project": "Flag Project"
+    },
+    "KYC_verified": "KYC verified",
+    "KYC_desc1": "KYC(Know Your Customer) is the process involving identifying and verifying ",
+    "KYC_desc2": "the identify of our client in order to faciliate our system`s compliance with ",
+    "KYC_desc3": "Anti-Money Laundering laws (AML) and to protect our system from accidentally ",
+    "KYC_desc4": "facilitating criminal activities.",
+    "learnMore": "Learn more",
+    "address": "San Diego, CA",
+    "milestone": "Milestone {n}",
+    "project": "Project",
+    "complete": "Complete",
+    "in_progress": "In progress",
+    "locked": "Locked",
+    "time_remaining": "Time Remaining",
+    "discussion": {
+      "title": "Discussion",
+      "info": {
+        "title": "What is this discussion area for?",
+        "text": "Share your excitement, ask questions, and help other backers.",
+        "faqTitle": "For general questions:",
+        "faqLink": "Check out the FAQ",
+        "contactTitle": "Didn't find your answer?",
+        "contactLink": "Contact the creator"
+      }
+    },
+    "faq": {
+      "description": "Find the answers to the most commonly asked questions.",
+      "description_empty": "The creator hasn't added questions and answers yet. Reach out and contact the creator directly.",
+      "contact_title": "Didn't find your answer?",
+      "get_answers": "Get your answers",
+      "contact": "Contact the creator",
+      "empty_own": "You haven't added any questions & answers yet.",
+      "button_edit": "Edit FAQ"
+    },
+    "updates": {
+      "mobile_cta": "Read update",
+      "no_updates": "This project has no updates",
+      "no_creator_updates": "The creator hasn't post any updates yet!"
+    },
+    "featured_project": "Featured project",
+    "featured": "Featured",
+    "view_all": "View all",
+    "view_project": "View project",
+    "days_left": "{n} Day left | {n} Days left",
+    "days_left_text": "Day left | Days left",
+    "raised": "{n} Raised",
+    "by": "By {n}",
+    "protection": "Backer Protection",
+    "funding_goal": "of {n} goal",
+    "trust": {
+      "vote_positive": "You've voted to use your Backer's Protection.",
+      "vote_negative": "You haven't voted to use your Backer's Protection.",
+      "backed": "You backed this project with a {0} pledge on {1}.",
+      "tooltip": "Backer's Protection is the refund you get if more than 50% of backers vote that they don't have confidence in the project.",
+      "vote_cta": "Change my vote",
+      "pledge_cta": "See my pledge",
+      "reward_modal": {
+        "title": "My Reward",
+        "pricing_subtotal": "Subtotal",
+        "estimated_shipping": "Estimated Shipping",
+        "total": "Total",
+        "email": "Email",
+        "name": "Name",
+        "shipping_address": "Shipping Address",
+        "add_more": "Add more rewards",
+        "cta": "Change my address",
+        "placeholder_email": "joerogan82@gmail.com",
+        "placeholder_name": "Joe Rogan",
+        "placeholder_address": "123 Fake, St Victoria, BC, Canada 12313"
+      },
+      "vote_modal": {
+        "title": "Change your Vote",
+        "content": "You can change your vote anytime after funding. If 50% or more backers vote they don't have confidence in the project, all backers will receive the refund guaranteed by the Backer's Protection.",
+        "refund": "Potential Refund",
+        "info": "Your projected refund if the project was canceled today. The refund is based on the 10% backer protection.",
+        "change_vote": "Change My Vote to Support the Project",
+        "vote_refund": "Vote to Get a Refund"
+      }
+    }
+  },
+  "comments": {
+    "points": "{n} POINTS",
+    "flag": "FLAG",
+    "edit": "EDIT",
+    "delete": "DELETE",
+    "sortOptions": [
+      { "option": "point", "label": "Top" },
+      { "option": "time", "label": "New" }
+    ],
+    "commentTip": {
+      "desc": "To participate in the discussion, you need to have",
+      "link": "made a pledge"
+    },
+    "labels": {
+      "creator": "Creator",
+      "deleted": "Deleted",
+      "edited": "Edited"
+    },
+    "buttons": {
+      "reply": "Reply",
+      "post": "Post",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "viewReplies": "View replies",
+      "hideReplies": "Hide replies"
+    },
+    "writeComment": "Write your post...What are you excited about? What are your questions?",
+    "writeReply": "Write your reply..."
+  },
+  "manager": {
+    "tabs": [
+      {
+        "label": "Insights",
+        "component": "insights"
+      },
+      {
+        "label": "Timeline",
+        "component": "timeline"
+      },
+      {
+        "label": "Shipping",
+        "component": "shipping"
+      },
+      {
+        "label": "Backers",
+        "component": "backers"
+      },
+      {
+        "label": "Updates",
+        "component": "updates"
+      }
+    ],
+    "view": "View Project Page",
+    "manage": "Manage Team",
+    "edit": "Edit Project",
+    "actions": [
+      {
+        "title": "Edit Project",
+        "url": ""
+      }
+    ],
+    "insights": {
+      "metrics": "Campaign Metrics",
+      "ended": "Ended {date}",
+      "pledged": "${n} pledged",
+      "funded": "{n}% funded",
+      "collapse": "Collapse",
+      "expand": "Expand",
+      "categories": {
+        "pledged": "Pledged",
+        "goal": "Goal Reached",
+        "left": "Days Left",
+        "backers": "Backers",
+        "average": "Average Pledge",
+        "confidence": "Backer confidence",
+        "voting": "Voting Yes",
+        "next": "Next Milestone",
+        "received": "Funds received",
+        "escrow": "Held in escrow",
+        "fee": "Listing Fee"
+      },
+      "progress": "Funding Progress",
+      "confidence": "Backer Confidence",
+      "sources": {
+        "header": "Sources"
+      },
+      "rewards": {
+        "header": "Rewards",
+        "learn": "Learn more"
+      },
+      "storefront": {
+        "header": "Storefront Sales",
+        "orders": "1 Order | {n} Orders",
+        "sales": "1 Sale | {n} Sales",
+        "last_24h": "Last 24 hours",
+        "last_30days": "Last 30 days",
+        "all_time": "All time",
+        "top_items_sold": "Top Items Sold",
+        "sold": "{n} Sold",
+        "items_sold": "Items Sold"
+      },
+      "referrers": {
+        "header": "Referrers",
+        "learn": "Learn more",
+        "tags": "Custom Tags",
+        "tags_info": "Track specific campaigns by creating custom tags and using the generated links.",
+        "tag_name": "Tag Name",
+        "generate": "Generate Link",
+        "link_edit": "Edit",
+        "no_tags": "No custom tags created"
+      },
+      "search": {
+        "header": "Search for Answers",
+        "placeholder": "Try \"Milestones\"",
+        "search": "Search",
+        "forum": "Creator Forum",
+        "knowledge": "Knowledge Center"
+      },
+      "handbook": {
+        "header": "Creator Handbook",
+        "descript": "Use our handy tutorials and guides to set up your perfect project page.",
+        "view": "View All"
+      },
+      "milestones": {
+        "header": "Milestones",
+        "confidence": "Confidence"
+      }
+    },
+    "timeline": {
+      "placeholder": "TIMELINE"
+    },
+    "shipping": {
+      "placeholder": "SHIPPING"
+    },
+    "updates": {
+      "title": "Updates",
+      "empty": "You haven't posted any updates yet!",
+      "create": "Create My First Update",
+      "why": "Why write updates?",
+      "reasons": "Updates are a great way to keep backers in the loop, confident about your project, and excited. Use updates to celebrate milestones and to celebrate all the little things in between.",
+      "best": "What are some best practices for using updates?",
+      "new": "New Update",
+      "draft": "Draft",
+      "likes": "Likes {n}",
+      "comments": "Comments {n}",
+      "last": "Last updated",
+      "options": "Edit Options",
+      "post": "Post Update",
+      "give": "Give your backers your update",
+      "tell": "Tell backers what is going on in the project.",
+      "best_give": "What are some best practices for giving updates?",
+      "add_email": "Add your update to your milestone email",
+      "optional": "Optional",
+      "email_info": "You can add this update to your email to give backers more details.",
+      "submit_post": "Post My Update",
+      "submit_edit": "Edit My Update",
+      "cancel": "Cancel",
+      "select": "Select Update Options",
+      "viewable": "Viewable by",
+      "audience": "Choose who can see your update. Is this for a specific audience?",
+      "audiences": ["Public", "Backers Only"],
+      "receive": "Choose who can receive an email",
+      "backers": "Which backers should receive an email about your update? Does it focus on a specific reward?",
+      "all_backers": "All Backers",
+      "public": "Public",
+      "save": "Save & Exit",
+      "save_draft": "Save Draft & Exit",
+      "saving": "saving",
+      "saved": "saved",
+      "placeholders": {
+        "write": "Write your update ...",
+        "details": "Add some details"
+      }
+    },
+    "backers": {
+      "rewards": "Rewards",
+      "destination": "Destination",
+      "destinations": "Destinations",
+      "payment": "Payment",
+      "status": "Order Status",
+      "filter": "Filter",
+      "filters": "Filters",
+      "segments": "Segments",
+      "apply": "Apply filters and click Save Segment to quickly return to that set of filters again.",
+      "no_saved": "No saved segments",
+      "to_save": "To save a segment, apply the filters you want and click Save Segment.",
+      "save_segment": "Save segment...",
+      "segment_saved": "Segment Saved",
+      "clear_filters": "Clear Filters",
+      "save": "Save",
+      "quickly": "Quickly return to this set of filters again by giving it a name.",
+      "cancel": "Cancel",
+      "change_status": "Change Order Statuses...",
+      "confirm": "Confirm",
+      "export": "Export CSV",
+      "contact": "Contact",
+      "search_backers": "Search",
+      "backers": "backers",
+      "segment_title": "Segment title"
+    }
+  },
+  "pledge": {
+    "title": "Pledge",
+    "subtitle": "*You will not be charged for a pledge until after the campaign is complete.",
+    "end_date": "Campaign End Date",
+    "variant_placeholder": "White",
+    "cart": {
+      "title": "Your Cart",
+      "checkout_button": "Checkout",
+      "no_item_message": "No items in your cart.",
+      "donated": "Donated",
+      "remove": "Remove"
+    },
+    "flowchart": {
+      "title": "Your Pledge",
+      "backer_icon": "Backer Insurance",
+      "creator_icon": "Creator"
+    },
+    "contact": {
+      "title": "Contact Creator",
+      "placeholder": "Message...",
+      "submit_button": "Submit"
+    },
+    "items": {
+      "items": "Items",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "donate_button": "+ Donate to Creator"
+    }
+  },
+  "receipt": {
+    "title": "Thank you for contributing to",
+    "subtitle": "*You will not be charged for a pledge until after the campaign is complete.",
+    "end_date": "Campaign End Date",
+    "items": {
+      "items": "Item(s)",
+      "quantity": "Quantity",
+      "total": "Total",
+      "delivery": "Est. Delivery",
+      "summary": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping & handling",
+      "return": "Return to campaign",
+      "share": "Share project with friends:",
+      "emailMessage": "An email will be sent to confirm your pending purchase."
+    }
+  },
+  "cta": {
+    "investDuring": "Invest during the growth stage of ",
+    "highQuality": "high quality projects, ",
+    "growWith": "grow with the industry as a whole",
+    "howToParticipate": "How to participate",
+    "participate1": "Register an account.",
+    "participate2_title": "Back a Project",
+    "participate2": "Funds in escrow keep creators accountable.",
+    "participate3": "Receive Amazing Products",
+    "exploreNow": "explore now"
+  },
+  "blog": {
+    "title": "Blog",
+    "readAll": "Read all",
+    "category": "Technology",
+    "blogTitle1": "Announcing the Pledgecamp Token Sale",
+    "blogTitle2": "Introducing the Pledgecamp Ecosystem - Market Network and Knowledge Center",
+    "readTime": "5 MIN READ",
+    "created": "12-6-2018",
+    "blogProjectDesc": "It is time to grow with your project",
+    "createNow": "create now"
+  },
+  "agreement": {
+    "title": "Welcome to Pledgecamp!",
+    "content": "If you have a new project to list or even just a startup idea, don't hesitate to contact us at <a href=\"mailto:hello@pledgecamp.com\">hello@pledgecamp.com</a>. We're here to help.",
+    "accept": "Enter"
+  },
+  "builder_intro": {
+    "tabs": [
+      {
+        "label": "Project Type",
+        "component": "builder-intro-type"
+      },
+      {
+        "label": "Name Project",
+        "component": "builder-intro-name"
+      },
+      {
+        "label": "Choose Category",
+        "component": "builder-intro-category"
+      },
+      {
+        "label": "Check Eligibility",
+        "component": "builder-intro-eligibility"
+      }
+    ],
+    "quit": "Quit",
+    "intro_type": {
+      "title1": "We're glad you're here!",
+      "title2": "What kind of project are you setting up?",
+      "new_title": "",
+      "new_text": "",
+      "items": [
+        {
+          "id": "new-project",
+          "title": "New Project",
+          "text": "Set a funding goal and raise funds"
+        },
+        {
+          "id": "continue-project",
+          "title": "Continuing Pre-Orders",
+          "text": "For funded Kickstarter and Indiegogo projects"
+        }
+      ]
+    },
+    "intro_name": {
+      "title": "What's the name of your project?",
+      "description": "Give your project a clear, intriguing name. This is what backers will see and call your project. You can change it later.",
+      "placeholder": "Project Title"
+    },
+    "intro_category": {
+      "title": "Choose a category",
+      "desc": "Don't see your category? Not sure which category you fall in to?",
+      "help": "Check out our Category Guidelines",
+      "skip": "Skip for now"
+    },
+    "intro_eligibility": {
+      "title": "Let's check your eligibility",
+      "desc": "We'll ask for your documents in a later step",
+      "checks": [
+        {
+          "label": "I'm over 18 years old."
+        },
+        {
+          "label": "I have a bank account and a government ID."
+        },
+        {
+          "label": "I have a debit/and or credit card."
+        },
+        {
+          "label": "I agree to Pledgecamp's <a>Terms and Conditions</a> and <a>Privacy Policy</a>"
+        }
+      ],
+      "button_text": "Project Page"
+    },
+    "continue": "Continue",
+    "info": {
+      "title": "Basic Info",
+      "name": "Project name",
+      "blurb": "Project short blurb",
+      "subdescript": "Briefly tell people what your project is.",
+      "category": "Category",
+      "subcategory": "Subcategory (optional)",
+      "region": "Region",
+      "goal": "Funding goal",
+      "upload": "Upload header image",
+      "currency": "Currency",
+      "duration": "Funding duration",
+      "description": "Project Description",
+      "uploadvideo": "Upload a video",
+      "images": "Upload images",
+      "details": "Project Details",
+      "buttonText": "UPLOAD",
+      "placeholders": {
+        "project": "Project name",
+        "category": "Select one",
+        "region": "Select one",
+        "subcategory": "Select one",
+        "description": "Type here...",
+        "upload": "Drag and drop your image here, or press button below",
+        "uploadvideo": "Drag and drop your video here, or press button below"
+      }
+    },
+    "insurance": {
+      "title": "Backer Insurance",
+      "subtitle": "Decide what percentage of funds to withhold until the backer confidence vote. More backer insurance means lower listing fees.",
+      "label": "Backer insurance",
+      "fee": "Listing fee"
+    },
+    "milestone": {
+      "title": "Project Milestones",
+      "subtitle": "Milestones",
+      "add": "Add a milestone",
+      "milestone_number": "Milestone #",
+      "instructions": "Milestones indicate important steps in your project to potential and active backers. You control how much funding you'll receive at each step. This helps add confidence for backers knowing goals have to be met for the project to move forward.",
+      "insurance": "Backer Insurance",
+      "funding": "Funding",
+      "fee": "Listing Fee",
+      "new": "New Milestone",
+      "amount": "Enter the amount you'll need for this milestone, and see how it affects the project fee.",
+      "placeholders": {
+        "title": "Title",
+        "date": "Date",
+        "description": "Description: Try to state any goals, outputs, and deliverables.",
+        "newtitle": "Milestone Title",
+        "milestone_date": "Milestone Date"
+      },
+      "buttonText": {
+        "add": "Add Milestone",
+        "update": "Update Milestone"
+      }
+    },
+    "duration": {
+      "title": "Campaign Duration",
+      "placeholders": {
+        "start": "Start",
+        "end": "End"
+      }
+    },
+    "rewards": {
+      "title": "Rewards",
+      "reward_title": "Reward Title",
+      "add_reward": "Add a reward",
+      "limit": "Backer limit (blank for unlimited)",
+      "amount": "Reward Amount",
+      "currency": "Currency",
+      "quantity": "Quantity",
+      "delivery": "Estimated Delivery",
+      "backer_limit": "Backer Limit",
+      "placeholders": {
+        "title": "Title",
+        "date": "Delivery date",
+        "month": "Select month",
+        "year": "Select year",
+        "description": "Description",
+        "price": "Price"
+      }
+    },
+    "buttonText": {
+      "save": "save",
+      "next": "next",
+      "launch": "launch",
+      "back": "back"
+    }
+  },
+  "dashboard": {
+    "manage": "Manage Team",
+    "preview": "Preview Project Page",
+    "publish": "Publish Your Project",
+    "milestones": "Milestones",
+    "continue": "Continue",
+    "back": "Dashboard",
+    "saving": "SAVING...",
+    "saved": "SAVED",
+    "header_preview": "Preview",
+    "save_warning": "If you continue, you may lose unsaved changes",
+    "manage_team": {
+      "email": "Email",
+      "collaborators": "Invite Collaborators",
+      "invite": "Invite people to help manage your project and page.",
+      "send": "Send Invite",
+      "team": "Team",
+      "roles": [
+        { "title": "Can view", "desc": "Can preview the project details" },
+        {
+          "title": "Can Edit",
+          "desc": "Access to project creation and most settings"
+        },
+        {
+          "title": "Admin",
+          "desc": "Full access including withdrawal of funds"
+        }
+      ]
+    },
+    "basics": {
+      "title": "Basics",
+      "desc": "This is the nuts and bolts of your project: title, short description, image, etc.",
+      "project_name": {
+        "title": "Project Title",
+        "desc": "Name your project something clear and interesting."
+      },
+      "blurb": {
+        "title": "Description",
+        "desc": "This should be short and sweet and tell your backers how great your project is. This description could appear as a snippet on the Pledgecamp homepage or category page, so make it intriguing."
+      },
+      "category": {
+        "title": "Category",
+        "desc": "Choose the closest fit for your category, so backers can easily find you."
+      },
+      "location": {
+        "title": "Location",
+        "desc": "Show backers where you're from, so locals can help promote and fund your project. Enjoy some hometown pride!",
+        "placeholder": "I'm based in..."
+      },
+      "main_image": {
+        "title": "Your main project image",
+        "desc": "Add an image that shows off what you're creating. Tip: this image will be used in a lot of places, including the homepage. Make sure it works for multiple places and multiple sizes.",
+        "note": "<span>3x5 aspect ratio</span><span>900 x 1200 px minimum</span><span>.png or .jpg</span>"
+      },
+      "video": {
+        "title": "Video",
+        "desc": "Tip: Backers love videos! They make projects more successful.",
+        "placeholder": "Youtube Link"
+      },
+      "carousel": {
+        "title": "Images carousel",
+        "desc": "Upload additional images to help backers see what you're making.",
+        "browse": "Browse to choose a file"
+      },
+      "social": {
+        "title": "Social media image",
+        "desc": "Choose the image you want to show up when you or someone else shares a link on social media.",
+        "note": "<span>1.9x1 aspect ratio</span><span>600 x 314 px minimum</span><span>.png or .jpg</span>"
+      },
+      "goal": {
+        "title": "Your fundraising goal",
+        "desc": "The minimum you need to fundraise to launch your project."
+      },
+      "length": {
+        "title": "Campaign length",
+        "desc": "How many days will your campaign last? This is just the fundraising portion. It's not the delivery of your project.",
+        "placeholder": "15-60 Days"
+      },
+      "post": {
+        "title": "Post-campaign funding",
+        "desc": "Offer new rewards after your campaign ends. Use this to capture ongoing demand.",
+        "options": ["Don't Continue Raising Funds", "Continue Raising Funds"],
+        "note": "Note: You need to ship to your original backers first. Post-campaign funding should be a bonus and not the center of your project.",
+        "link": "Should I use post-campaign funding?"
+      },
+      "referral": {
+        "title": "Referral links",
+        "desc": "Give backers a link to share and refer friends. If a backer's friend funds you from that link, the original backer gets a referral bonus. The bonus is paid out of the money you earn in your campaign. You choose what the bonus is.",
+        "check": "Turn on Referral Links",
+        "note": "Backers will see the info on referral bonuses at the bottom of your project page."
+      },
+      "analytics": {
+        "title": "Google Analytics",
+        "desc": "Monitor your progress and watch the traffic roll in through Google Analytics.",
+        "placeholder": "Tracking Code",
+        "link": "How do I get my Google Analytics tracking code?"
+      }
+    },
+    "overview": {
+      "title": "Overview",
+      "desc": "Explain in detail why your project is great and why backers will love it.",
+      "main": {
+        "title": "Describe your project and your journey",
+        "desc": "Describe your project and explain how it will make backers' lives better. Be sure to add a little about yourself and why you've launched this campaign - so backers will root for your success.",
+        "link": "Tips on writing your overview"
+      }
+    },
+    "rewards": {
+      "title": "Rewards",
+      "desc": "What are you going to give your backers? How much will they need to pledge?",
+      "tabs": [
+        {
+          "label": "Rewards"
+        },
+        {
+          "label": "Shipping Options"
+        }
+      ],
+      "rewards_title": "Add your rewards",
+      "rewards_text1": "Select items and experiences for backers. Try to provide rewards at different price points, so everyone can support you.",
+      "rewards_text2": "Users can pick multiple rewards to put in their cart and back you.",
+      "new_reward": "New Reward",
+      "shipping_title": "Need more shipping options?",
+      "shipping_text1": "Create special shipping rates for large orders and bundles",
+      "shipping_link": "Why create special shipping rates?",
+      "shipping_quantity": "Quantity Rules",
+      "shipping_quantity_text": "Select a reward and then customize quantity and shipping rates for each quantity level.",
+      "shipping_quantity_button": "New Quantity Rule",
+      "shipping_bundle": "Bundle Rates",
+      "shipping_bundle_text": "Create a bundle to customize shipping rates and total item costs for each shipping destination.",
+      "shipping_bundle_button": "New Bundle Rate",
+      "modal": {
+        "titles": {
+          "new_reward": "New Reward",
+          "edit_reward": "Edit Reward",
+          "delete_reward": "Delete Reward"
+        },
+        "labels": {
+          "reward_title": "Reward Title",
+          "description": "Description",
+          "quantity_available": "Quantity Available",
+          "reward_image": "Reward Image",
+          "variations": "Variations",
+          "variations_desc": "Show all the options for your rewards (likes size and color), so backers can easily see all their choices. List a reward with all its variations, rather than creating multiple rewards.",
+          "variation_name": "Variation Name",
+          "upload_image": "Upload Image",
+          "shipping_reward": "This reward will be shipped",
+          "shipping_desc": "Add your shipping estimates per country and/or worldwide.",
+          "everywhere_else": "Everywhere Else",
+          "copy_from_reward": "Copy from Reward...",
+          "optional": "OPTIONAL"
+        },
+        "buttons": {
+          "add_variation": "Add Variation",
+          "add_destination": "Add Destination",
+          "add_reward": "Add Reward",
+          "update_reward": "Update Reward"
+        }
+      }
+    },
+    "timeline": {
+      "title": "Timeline",
+      "desc": "Your project plan for creating and shipping your product. Don't worry if you're new to this! we can help.",
+      "page_title": "Project Timeline",
+      "page_desc": "Lay out your project plan. Start with creating a milestone, these are specific goals or activities you need to complete after funding wraps up.",
+      "link": "Need help with your project timeline?",
+      "right_title": "Milestones and Fees",
+      "right_desc": "The more funding you set aside for milestones, the lower the project fee.",
+      "project_fee": "Project Fee",
+      "fee": "{n}% Fee",
+      "discount": "Discount",
+      "total_fee": "Total Project Fee",
+      "total_desc": "(Paid with raised funds)",
+      "funds_raised": "{n}% of funds raised.",
+      "button": "Add New Milestone",
+      "milestones": {
+        "titles": {
+          "new_milestone": "New Milestone",
+          "edit_milestone": "Edit Milestone",
+          "fees": "Milestones and Fees"
+        },
+        "labels": {
+          "title": "Milestone Title",
+          "end_date": "End Date",
+          "description": "Description",
+          "starting_funds": "Starting Fund",
+          "milestone_funds": "Milestone Funds",
+          "total_fee": "Total Project Fee",
+          "funds_max": "100%",
+          "project_fee": "5% Fee"
+        },
+        "buttons": {
+          "add_milestone": "+ Add New Milestone",
+          "update_milestone": "Update Milestone"
+        },
+        "instructions": "Enter the amount you'll need for your first milestone, and see how this affects the project fee.",
+        "total": "of {n} total"
+      }
+    },
+    "account": {
+      "title": "Account",
+      "desc": "Confirm your identity and your banking info. We need this information to make sure you get your funding.",
+      "confirm": "Confirm Your Identity",
+      "email": {
+        "title": "Contact Email",
+        "desc": "The email used for project related messages. If you'd like to change your email address, visit your Profile Settings."
+      },
+      "2fa": {
+        "title": "Two-Factor Authentication",
+        "desc": "Use an authenticator app for better account security.",
+        "button": "Enable Two Factor"
+      },
+      "contact": {
+        "title": "Contact and Personal Information",
+        "desc": "This is the primary contact's information. ID and images need to match this.",
+        "first": "First Name",
+        "last": "Last Name",
+        "birth": "Date of Birth (DD/MM/YYYY)",
+        "country": "Country",
+        "postal_code": "Postal Code"
+      },
+      "bank": "Banking Information",
+      "bank_details": {
+        "title": "Bank Details",
+        "desc": "We need this info so we can deposit your funds.",
+        "link": "Where do I find these numbers?",
+        "routing": "Routing Number",
+        "account": "Account Number"
+      },
+      "bank_confirmation": {
+        "title": "Bank Confirmation",
+        "desc": "Upload a bank document like a voided check, direct deposit form, or screenshot of your online banking info. The documents need to include your full name, bank logo, transit number, and your account number."
+      },
+      "bank_submit": "Submit Banking Information"
+    },
+    "faq": {
+      "title": "FAQ",
+      "desc": "Answer common questions before they happen."
+    },
+    "bonuses": {
+      "title": "Bonuses",
+      "desc": "Ask for help on your project in exchange for Pledge Coin."
+    }
+  },
+  "user": {
+    "title": "Account",
+    "profile": {
+      "placeholders": {
+        "update_email": "Update email",
+        "password": "Password"
+      },
+      "buttonText": {
+        "save": "save"
+      },
+      "email_input": "Email",
+      "password_input": "Enter password to save changes",
+      "confirm_message": "Please confirm your email.",
+      "resend_message": "Resend confirmation link."
+    },
+    "security": {
+      "placeholders": {
+        "new_password": "New password",
+        "confirm_password": "Confirm password",
+        "old_password": "Old password"
+      },
+      "buttonText": {
+        "log_out": "log out",
+        "save": "save"
+      },
+      "update": "Update password",
+      "confirm": "Confirm new password",
+      "current": "Enter current password to update"
+    },
+    "public": {
+      "joined": "Joined",
+      "about": "About",
+      "bio_false": "No Bio",
+      "campaigns": "campaigns",
+      "backed": "Backed",
+      "created": "Created",
+      "projects": {
+        "projects_false": "No Projects",
+        "backed_false": "Nothing Backed",
+        "created": "Created",
+        "backed": "Backed"
+      }
+    },
+    "private": {
+      "last_online": "Last online",
+      "bio_false": "No Bio",
+      "joined": "Joined",
+      "campaigns": "{n} campaigns",
+      "backed": "{n} Backed",
+      "created": "Created",
+      "edit": {
+        "title": "Edit profile",
+        "placeholders": {
+          "name": "Full Name",
+          "bio": "Bio",
+          "location": "Location",
+          "link": "Link"
+        },
+        "errors": {
+          "general": "Please enter valid information",
+          "link": "Please enter a valid link"
+        },
+        "labels": {
+          "name": "Full Name",
+          "bio": "Bio",
+          "location": "Location",
+          "link": "Link"
+        },
+        "buttons": {
+          "cancel": "Cancel",
+          "save": "Save Changes"
+        }
+      },
+      "projects": {
+        "projects_false": "Have an idea for a project?",
+        "backed_false": "You haven't backed any projects yet.",
+        "created": "Created",
+        "backed": "Backed",
+        "created_btn": "Create My Project"
+      },
+      "tabs": [
+        {
+          "label": "Account",
+          "route": "account"
+        },
+        {
+          "label": "Profile",
+          "route": "profile"
+        },
+        {
+          "label": "Payment",
+          "route": "payment"
+        },
+        {
+          "label": "Projects",
+          "route": "projects"
+        },
+        {
+          "label": "Documents",
+          "route": "documents"
+        },
+        {
+          "label": "Activity",
+          "route": "activity"
+        }
+      ],
+      "account": {
+        "account_details": "Account Details",
+        "labels": {
+          "email": "Email Address",
+          "password": "Password",
+          "new_password": "New Password",
+          "confirm_password": "Confirm Password",
+          "address": "Address"
+        },
+        "placeholders": {
+          "email": "Enter email address",
+          "password": "Enter old password",
+          "new_password": "Enter new password",
+          "confirm_password": "Enter confirm password",
+          "address": "Enter your shipping address",
+          "card_number": "Card number",
+          "cardholder_name": "Cardholder name",
+          "expiration": "Expiration",
+          "security_code": "Security code",
+          "zip_postal_code": "Zip/Postal code"
+        },
+        "payment": {
+          "payment_details": "Payment Details",
+          "labels": {
+            "credit_card": "Credit Card Information"
+          },
+          "placeholders": {}
+        },
+        "errors": {
+          "CURRENT_PASSWORD_MISSING": "Please enter current password.",
+          "CURRENT_PASSWORD_MISMATCH": "Current password doesn't match.",
+          "NEW_PASSWORD_MISSING": "Please enter new password.",
+          "NEW_PASSWORD_MISMATCH": "New passwords don't match.",
+          "EMAIL_MISSING": "Please enter an email address.",
+          "EMAIL_INVALID": "Please enter a valid email address.",
+          "EMAIL_ALREADY_USE": "Email is already in use."
+        }
+      },
+      "profile_details": "Profile Details",
+      "labels": {
+        "name": "Name",
+        "profile_picture": "Profile Picture",
+        "bio": "Short Bio",
+        "location": "Location",
+        "timezone": "Timezone",
+        "website": "Website",
+        "choose_image": "Choose or drop an image here",
+        "file_type": "JPEG, PNG, or GIF • 2MB file limit"
+      },
+      "placeholders": {
+        "name": "Enter full name",
+        "bio": "Type here...",
+        "location": "Select region",
+        "timezone": "Select time zone",
+        "websites": "Website URL"
+      },
+      "buttons": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "add": "Add",
+        "logout": "Log Out"
+      },
+      "payment": {
+        "payment_details": "Payment Details",
+        "labels": {
+          "credit_card": "Credit Card Information"
+        },
+        "placeholders": {
+          "card_number": "Card number",
+          "cardholder_name": "Cardholder name",
+          "expiration": "Expiration",
+          "security_code": "Security code",
+          "zip_postal_code": "Zip/Postal code"
+        },
+        "buttons": {
+          "cancel": "Cancel",
+          "save": "Save"
+        }
+      },
+      "activity": {
+        "backed_projects": "Projects You Backed",
+        "remember_vote_label": "Remember to vote",
+        "remember_vote_description": "Voting process is an important part of each project. Make sure to support the creator by voting at each milestone.",
+        "no_backed_projects": "You haven't backed any projects yet."
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "tabs": [
+      {
+        "label": "Account",
+        "route": "account"
+      },
+      {
+        "label": "Verification",
+        "route": "verification"
+      },
+      {
+        "label": "Notifications",
+        "route": "notifications"
+      },
+      {
+        "label": "Payment Methods",
+        "route": "payment"
+      }
+    ],
+    "account": {
+      "deletion": "Delete my Pledgecamp account",
+      "placeholders": {
+        "current_password": "Current Password",
+        "new_password": "New Password",
+        "confirm_password": "Confirm New Password"
+      },
+      "email": {
+        "title": "Email",
+        "label": "We use your email to send you updates on your projects.",
+        "cta": "Change My Email"
+      },
+      "password": {
+        "title": "Password",
+        "label": "Need to change your password?",
+        "change": "Change My Password",
+        "update": "Update My Password",
+        "cancel": "Cancel"
+      },
+      "two_factor": {
+        "title": "Two Factor",
+        "label_authenticator": "Add a layer of security. Every time you log in, we'll ask you to enter a code provided by a third party Authenticator application.",
+        "label_phone": "Your phone needs to be verified to use this. Update it in the Trust and Verification tab, if you haven't done this already.",
+        "cta": "Enable Two Factor",
+        "modal_title": "Two Factor Authentication",
+        "pair_app": {
+          "title": "Pair App to your Account",
+          "desc": "Scan the QR code to pair to mobile device."
+        },
+        "password_required": {
+          "title": "Password Required",
+          "desc": "Enter your Pledgecamp password below."
+        },
+        "enter_digits": {
+          "title": "Enter 6-digit verification",
+          "desc": "Enter the code from your authenticator app."
+        },
+        "almost_done": {
+          "title": "Almost Done!",
+          "desc": "To enable two-factor, you must download your recovery codes. Keep these recovery codes in a safe place. If you lose your two factor enabled device, these one-time use codes can be used in the listed order to log in to your account."
+        },
+        "recovery_codes": {
+          "title": "Recovery Codes",
+          "desc": ""
+        },
+        "process_complete": {
+          "title": "Process Complete",
+          "desc": "Your two-factor aunthentication is now enabled. The next time you log in you will be asked to provide a verification code. You can disable this feature at any time."
+        },
+        "buttons": ["Next", "Download", "Done"],
+        "errors": {
+          "PASSWORD_MISSING": "Password is required",
+          "PASSWORD_INVALID": "Invalid password",
+          "CODE_MISSING": "6-Digit code is required",
+          "CODE_INVALID": "Invalid code"
+        }
+      },
+      "social": {
+        "title": "Connected Accounts",
+        "label": "Linking accounts makes it easy to share with people you already know and see what they're up to on Pledgecamp.",
+        "connectivity": "Not connected",
+        "connect": "Connect",
+        "disconnect": "Disconnect",
+        "friends": "Friends"
+      }
+    },
+    "payment": {
+      "title": "Credit / Debit Cards",
+      "help": "Add and manage your credit or debit cards here for convenience. They will be accessible during checkout when you make pledges.",
+      "card_name": "Card ending in {code}",
+      "expires": "Expires {date}",
+      "create_payment_title": "New Credit or Debit Card",
+      "billing_address": "Billing Address",
+      "invalid_error_message": "{label} is invalid!",
+      "labels": {
+        "card_number": "Card Number",
+        "cardholder_name": "Cardholder name",
+        "expiration": "Expiry Date",
+        "security_code": "CVV",
+        "zip_postal_code": "Zip Code",
+        "fullname": "Full Name",
+        "address": "Address",
+        "apartment": "Address (cont.)",
+        "city": "City",
+        "country": "Country",
+        "province": "Province",
+        "postal_code": "Postal Code"
+      },
+      "placeholders": {
+        "card_number": "0000 0000 0000 0000",
+        "cardholder_name": "Full Name on Card",
+        "expiration": "Expiry Date MM/YY",
+        "security_code": "CVV",
+        "zip_postal_code": "Zip or Postal Code",
+        "fullname": "Full Name",
+        "address": "Address",
+        "apartment": "Apartment, Suite, etc.",
+        "city": "City",
+        "country": "Country",
+        "province": "Province",
+        "postal_code": "ZIP Code"
+      },
+      "buttons": {
+        "add_card": "Add Card",
+        "primary": "Primary Card",
+        "make_primary": "Make Primary",
+        "remove": "Remove",
+        "cancel": "Cancel",
+        "save": "Save"
+      }
+    },
+    "verification": {
+      "top": {
+        "title": "Be Ready to Create Projects",
+        "desc": "For safety and trust, we require all creators to verify their identity before submitting a project. Get a head start by doing this now.",
+        "link": "Learn more"
+      },
+      "email": {
+        "title": "Email Confirmation",
+        "desc": "Check your email and confirm your email address. If you’d like to change your email address, visit your Profile Settings.",
+        "button": "Resend Email Confirmation"
+      },
+      "contact_info": {
+        "title": "Contact and Personal Information",
+        "desc": "This is the primary contact’s information. ID and images need to match this."
+      },
+      "kyc": {
+        "title": "“Know Your Customer” (KYC) Verification",
+        "desc": "Click the button below to begin the KYC process. You will be taken to our partner Veriff's website, and returned here once complete.",
+        "verified": "Verified",
+        "buttons": {
+          "KYC_NOT_DONE": "Begin KYC",
+          "KYC_PENDING": "Pending",
+          "KYC_COMPLETE": "Remove KYC",
+          "KYC_FAILED": "Failed"
+        }
+      },
+      "address_verification": {
+        "title": "Address Verification",
+        "desc": "Upload your proof of residential address. This can be a recent utility bill, bank statement, or government issued ID.",
+        "button": "Submit Document"
+      },
+      "identity_submit": "Submit Identity Confirmation",
+      "kyc_modal": {
+        "title": "KYC Process",
+        "content": {
+          "success": "Click the button below to begin the KYC process. You will be taken to our partner Veriff's website, and returned here once complete.",
+          "no_contact": "Please fill in your contact information before starting KYC!",
+          "url_fail": "The KYC provider is unavailable at the moment, please try again later!",
+          "remove_confirmation": "Are you sure to remove your KYC?"
+        },
+        "buttons": {
+          "continue": "Continue to VERIFF",
+          "confirm_remove": "Remove",
+          "confirm_cancel": "Cancel"
+        },
+        "powered_by": "Powered by"
+      }
+    },
+    "subscriptions": {
+      "title": "Email Notifications",
+      "desc": "Check your email and confirm your email address. If you’d like to change your email address, visit your Profile Settings.",
+      "sections": [
+        {
+          "title": "Projects you backed",
+          "items": {
+            "PROJECT_UPDATES": "Project updates"
+          }
+        },
+        {
+          "title": "Projects you created",
+          "items": {
+            "DAILY_DIGEST": "Daily digest on pledge activity",
+            "MILESTONE_REMINDERS": "Milestone reminders",
+            "PROJECT_COMMENTS": "Project comments",
+            "UPDATE_COMMENTS": "Comments on updates",
+            "BOUNTY_SUBMISSIONS": "Bounty submissions"
+          }
+        }
+      ]
+    }
+  },
+  "learn": {
+    "titlebar": "Knowledge Center",
+    "title": "Have a question? Our experts can help.",
+    "query_placeholder": "What are you looking for?",
+    "buttonText": {
+      "search": "search"
+    },
+    "tabs": ["questions"],
+    "questions": {
+      "filters": [
+        {
+          "title": "Popular",
+          "filter": "popular"
+        },
+        {
+          "title": "Unanswered",
+          "filter": "unanswered"
+        },
+        {
+          "title": "Most Recent",
+          "filter": "recent"
+        },
+        {
+          "title": "Ask a question",
+          "filter": null
+        }
+      ],
+      "last_activity": "Last activity {n}"
+    }
+  },
+  "notifications": {
+    "header": "Notifications",
+    "mark": "Mark As Read",
+    "none": "You have no notifications",
+    "types": "Notification Types",
+    "type_checks": {
+      "label": "All Types",
+      "checked": true,
+      "children": [
+        {
+          "label": "Comments",
+          "type": "PROJECT_COMMENT"
+        },
+        {
+          "label": "Project Updates",
+          "type": "PROJECT_UPDATE"
+        },
+        {
+          "label": "Milestone Events",
+          "type": "MILESTONE_EVENT"
+        }
+      ]
+    },
+    "more": "Load More"
+  },
+  "wallet": {
+    "title": "Wallet",
+    "tabs": [
+      {
+        "id": "PLG",
+        "label": "Pledge Coin (PLG)",
+        "convert_title": "Convert PLG to CS",
+        "convert_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula ornare nunc, finibus iaculis augue iaculis sed. Fusce eu elit condimentum ligula tincidunt malesuada.",
+        "buy_more": "Buy More"
+      },
+      {
+        "id": "CS",
+        "label": "Camp Shares (CS)",
+        "convert_title": "Convert CS to PLG",
+        "convert_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula ornare nunc, finibus iaculis augue iaculis sed. Fusce eu elit condimentum ligula tincidunt malesuada."
+      }
+    ],
+    "convert": "Convert",
+    "history": "History",
+    "faq": "FAQ",
+    "transferred": "Transferred {amount} {code}",
+    "converting": "{code} Conversion",
+    "converting_help": "Enter how much you would like to convert.",
+    "available": "Available",
+    "convert_amount": "{code} Amount",
+    "total_converted": "Total {code}",
+    "convert_submit": "Submit",
+    "convert_cancel": "Cancel",
+    "invalid_kyc": "We detect you have not completed KYC verification yet. Click {here} to complete process. US persons may not acquire CS.",
+    "here": "here",
+    "moderator_status_not_achieved": "You have not achieved Moderator Status",
+    "filter_statement_label_year": "{year} statements",
+    "load_more": "Load More",
+    "validation": {
+      "min": "Minimum amount must be {amount} {code}",
+      "max": "Maximum amount must be {amount} {code}"
+    }
+  },
+  "checkout": {
+    "title": "Checkout",
+    "buttons": {
+      "back": "Back",
+      "continue": "Continue",
+      "done": "Done",
+      "place_order": "Place My Order",
+      "share_facebook": "Share on Facebook",
+      "share_twitter": "Share on Twitter"
+    },
+    "note_title": "Please Note",
+    "note_text": "You will not be charged until the funding period is over, and only if the project has met its goal.",
+    "address": {
+      "title": "General Information",
+      "contact_info": "Contact Information",
+      "shipping_address": "Shipping Address",
+      "name": "Name",
+      "email": "Email",
+      "phone_number": "Your Phone",
+      "line1": "Line 1",
+      "line2": "Line 2",
+      "city": "City",
+      "country": "Country",
+      "state": "State",
+      "postal_code": "Postal Code",
+      "save_address": "Save this address for later"
+    },
+    "form": {
+      "phone_number": {
+        "placeholder": "Your Phone",
+        "error_label": "phone number"
+      },
+      "line1": {
+        "placeholder": "Line 1",
+        "error_label": "address"
+      },
+      "line2": {
+        "placeholder": "Line 2",
+        "error_label": "address"
+      },
+      "city": {
+        "placeholder": "City",
+        "error_label": "city"
+      },
+      "country": {
+        "placeholder": "Country",
+        "error_label": "country"
+      },
+      "state": {
+        "placeholder": "State",
+        "error_label": "state"
+      },
+      "postal_code": {
+        "placeholder": "Postal Code",
+        "error_label": "postal code"
+      }
+    },
+    "payment": {
+      "title": "Payment Method",
+      "credit_debit_card": "Credit or Debit Card",
+      "card_number": "Card Number",
+      "name": "Full Name on Card",
+      "expiration": "Expiry Date MM/YY",
+      "cvv": "CVV",
+      "plg_wallet": "PLG Wallet",
+      "use_wallet": "Use the wallet balance first",
+      "card_ending_in": "Card ending in {last4}",
+      "add_card": "+ Add a New Card"
+    },
+    "review_confirm": {
+      "title": "Review & Confirm"
+    },
+    "rewards": {
+      "title": "Rewards",
+      "subtotal": "Subtotal",
+      "estimated_shipping": "Estimated Shipping",
+      "total": "Total"
+    },
+    "success": {
+      "congrats": "Congratulations!",
+      "just_pledged": "You just made a pledge",
+      "whats_next": "What's next",
+      "whats_next_desc": "We'll let you know as soon as the project's funded! And then we'll give you updates of the project's progress.",
+      "voting": "Voting",
+      "voting_desc": "Once the project is funded, you can get a refund by voting with other backers. Check out the project's timeline to learn more."
+    },
+    "errors": {
+      "VALUE_MISSING": "Please enter your {label}.",
+      "VALUE_INVALID": "Please enter a valid {label}."
+    }
+  },
+  "form": {
+    "labels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "birth": "Date of Birth (DD/MM/YYYY)",
+      "country": "Country",
+      "postalCode": "Postal Code"
+    },
+    "fields": {
+      "firstName": "first name",
+      "lastName": "last name",
+      "birth": "birthday",
+      "country": "country",
+      "postalCode": "postal code"
+    },
+    "errors": {
+      "VALUE_MISSING": "Please enter your {label}.",
+      "VALUE_INVALID": "Please enter a valid {label}."
+    }
+  },
+  "header": {
+    "start_project": "Start a Project",
+    "learn": "Learn",
+    "profile": "Profile",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "about": "About Us",
+    "explore_projects": "Explore Projects",
+    "creator_handbook": "Creator Handbook",
+    "knowledge_base": "Knowledge Base",
+    "creator_forum": "Creator Forum",
+    "search": {
+      "view_results": "View 1 Result | View {n} Results",
+      "view_filters": "View Filters",
+      "projects": "Projects ({n})",
+      "categories": "Categories",
+      "creators": "Creators ({n})",
+      "empty": "No results."
+    },
+    "listingOptions": [
+      { "name": "Recently Launched" },
+      { "name": "Now Trending" },
+      { "name": "Almost Funded" },
+      { "name": "Funded" }
+    ],
+    "userMenu": {
+      "created_projects": "Created Projects",
+      "no_created_projects": "No created projects",
+      "backed_projects": "Backed Projects | 1 Backed Project | {count} Backed Projects",
+      "no_backed_projects": "No backed projects",
+      "view_all": "View all",
+      "project_dashboard": "Project Dashboard",
+      "account": "Account",
+      "wallet": "Wallet",
+      "wallet_placeholder": "2.45",
+      "userLinks": [
+        { "title": "Profile", "route": "user" },
+        { "title": "Settings", "route": "settings" },
+        { "title": "Verification", "route": "settings-verification" },
+        { "title": "Notifications", "route": "settings-notifications" },
+        { "title": "Payment Methods", "route": "settings-payment" }
+      ]
+    },
+    "notificationsMenu": {
+      "notifications": "Notifications",
+      "mark_read": "Mark All As Read",
+      "empty": "You Have No Notifications.",
+      "view_all": "View All"
+    }
+  },
+  "footer": {
+    "links": [
+      [
+        { "title": "Projects" },
+        { "title": "Home", "route": "/" },
+        { "title": "Explore", "route": "/projects/categories/2" },
+        { "title": "Create a Project", "route": "/create" },
+        { "title": "Open Storefront", "route": "/create/continue" }
+      ],
+      [
+        { "title": "Backers" },
+        { "title": "Help & Support", "route": "unimplemented" },
+        { "title": "How it works", "route": "unimplemented" }
+      ],
+      [
+        { "title": "Creators" },
+        { "title": "Creator Handbook", "route": "unimplemented" },
+        { "title": "Forum", "route": "unimplemented" },
+        { "title": "Knowledge Center", "route": "unimplemented" },
+        { "title": "Vendor Marketplace", "route": "unimplemented" }
+      ],
+      [
+        { "title": "Pledgecamp" },
+        { "title": "Whitepaper", "route": "/whitepaper" },
+        { "title": "About Us", "route": "/about" },
+        { "title": "Blog", "route": "https://medium.com/pledgecamp", "target": "_blank" },
+        { "title": "Contact", "route": "hello@pledgecamp.com", "mail": true }
+      ]
+    ],
+    "newsletter": "Pledgecamp newsletter",
+    "newsletter_placeholder": "Enter your email",
+    "follow": "Follow Us",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "risk": "Risk Factors",
+    "copyright": "© 2018 Pledgecamp. All Rights Reserved.",
+    "pledgecamp_short": "Crowdfunding you can trust.",
+    "pledgecamp_desc": "Pledgecamp is a community of people funding and launching creative projects."
+  },
+  "not_found": {
+    "title": "404 Error",
+    "description": "We can't find the page you looking for.",
+    "link_to_home": "Back To Home"
+  }
+}

@@ -1,0 +1,22 @@
+
+@mixin transition($time) {
+  -o-transition: $time;
+  -ms-transition: $time;
+  -moz-transition: $time;
+  -webkit-transition: $time;
+  transition: $time;
+}
+
+@mixin float50 {
+  width: 50%;
+  position: relative;
+  float: left;
+  height: 100%;
+}
+
+.dashboard-content {
+  padding: 0 7%;
+  h1 {
+    margin: 56px 0;
+  }
+}
